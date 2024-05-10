@@ -2,19 +2,19 @@
     {
         "id":"1",
         "title":"Afternoon Tea",
-        "image":"images/Service1.jpg",
+        "image":"Service1.jpg",
         "description":"Aw9ugehjfiudfjds"
     },
     {
         "id":"2",
         "title":"Parties",
-        "image":"images/Service2.jpg",
+        "image":"Service2.jpg",
         "description":"Aw9ugehjfiuajsgfdkgjdfhjkhjkfhdbkfbhgshsdfjds"
     },
     {
         "id":"3",
         "title":"Events",
-        "image":"images/Service3.jpg",
+        "image":"Service3.jpg",
         "description":"Aw9ugehjfiuajscvfkjchcohv89wrudvhfjxvucjcnccsdhdjvhcjxdhdjkhdusjgfdkgjdfhjkhjkfhdbkfbhgshsdfjds"
     }
 ]}
